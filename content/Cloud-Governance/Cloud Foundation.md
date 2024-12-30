@@ -1,7 +1,7 @@
 ---
 title: Cloud Foundation
 description: DescriptionForLinks
-draft: true
+draft: false
 tags:
   - CloudGovernance
 ---

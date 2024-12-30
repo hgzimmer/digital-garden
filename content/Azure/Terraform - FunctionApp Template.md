@@ -1,7 +1,7 @@
 ---
 title: Terraform - FunctionApp Template
 description: TF-Template for Azure Function App (free tier)
-draft: true
+draft: false
 tags:
   - Azure
   - Terraform

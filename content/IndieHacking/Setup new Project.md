@@ -1,7 +1,7 @@
 ---
 title: Setup new Project
 description: Description how to bootstrap a new project
-draft: true
+draft: false
 tags:
   - GitHub
 ---

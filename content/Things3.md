@@ -1,7 +1,7 @@
 ---
 title: Things 3
 description: How I use Things 3
-draft: true
+draft: false
 tags:
 ---
 ### Tips & Tricks

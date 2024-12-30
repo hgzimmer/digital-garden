@@ -1,7 +1,7 @@
 ---
 title: Create new Azure Function
 description: Step by Step Guide to create a new FunctionApp
-draft: true
+draft: false
 tags:
   - Azure
 ---
